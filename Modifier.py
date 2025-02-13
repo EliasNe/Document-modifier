@@ -40,7 +40,7 @@ def newfolder(folder_path):
 
 print(newfolder(folder_path))
 
-# print(sorted_directory(folder_path2))
+
 
    
         
